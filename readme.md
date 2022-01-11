@@ -18,12 +18,16 @@ sync by editing from cloud folder.
 
 ### keybindings
 
-- <key>enter</key> open selected result (or create new file named after current search)
-- <key>ctrl+l</key> focus the search bar (and clear search)
-- <key>right</key> cancel clearing search
-- <key>ctrl+j</key> or <key>ctrl+n</key> select next result
-- <key>ctrl+k</key> or <key>ctrl+p</key> select previous result
-- <key>ctrl+q</key> or <key>ctrl+g</key> quit
+- `enter` open selected result (or create new file named after current search)
+- `ctrl+l` focus the search bar (and clear search)
+- `right` cancel clearing search
+- `ctrl+j` or `ctrl+n` select next result
+- `ctrl+k` or `ctrl+p` select previous result
+- `ctrl+q` or `ctrl+g` quit
+
+### screenshot
+
+![](./screen.png)
 
 ### license
 
